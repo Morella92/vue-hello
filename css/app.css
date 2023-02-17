@@ -1,0 +1,13 @@
+img{
+    width: 50%;
+    margin-left: 300px;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.text{
+    color: white;
+    text-align: center;
+}
